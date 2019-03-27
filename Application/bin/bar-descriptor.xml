@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<qnx xmlns="http://www.qnx.com/schemas/application/1.0">
+    <name>Car</name>
+    <description>Coagent Car</description>
+    <icon>
+    <image>icon.png</image>
+    </icon>
+    <id>com.coagent.Car</id>
+    <versionNumber>1.0.0</versionNumber>
+    <buildId>1</buildId>
+    <author>norby</author>
+    <initialWindow>
+        <systemChrome>none</systemChrome>
+        <transparent>false</transparent>
+    </initialWindow>
+    <category>app</category>
+    <permission system="true">configure_system</permission>
+    <permission system="true">run_native</permission>
+    <action system="true">run_native</action>
+    <env var="QQNX_PHYSICAL_SCREEN_SIZE" value="150,90"/>
+    <asset entry="true" type="Qnx/Elf" path="CarPlay">Car</asset>
+</qnx>

@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kanzi Studio\n"
+"POT-Creation-Date: 02/27/2017 16:30:49\n"
+"POT-Revision-Date: 02/27/2017 16:30:49\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Kanzi Studio\n"
+"X-Poedit-Basepath: ."
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: \n"
+
+msgctxt "mainlistHU"
+msgid "HUD亮度调节"
+msgstr ""
+
+msgctxt "mainlistCW"
+msgid "车外照明延迟关闭时间"
+msgstr ""
+
+msgctxt "mainlistCN"
+msgid "车内照明延迟关闭时间"
+msgstr ""
+
+msgctxt "mainlistZD"
+msgid "自动车速锁"
+msgstr ""
+
+msgctxt "mainlistSF"
+msgid "设防提示音"
+msgstr ""
+
+msgctxt "mainlistSFT"
+msgid "设防提示音量大小"
+msgstr ""
+
+msgctxt "mainlistDW"
+msgid "定位照明"
+msgstr ""
+
+msgctxt "mainlistYK"
+msgid "遥控自动降窗"
+msgstr ""
+
+msgctxt "mainlistZX"
+msgid "转向辅助灯"
+msgstr ""
+
+msgctxt "mainlistYKH"
+msgid "遥控后视镜折叠"
+msgstr ""
+
+msgctxt "mainlistDC"
+msgid "倒车后视镜下翻功能"
+msgstr ""
+
+msgctxt "ack"
+msgid "确定"
+msgstr ""
+
+msgctxt "cancel"
+msgid "取消"
+msgstr ""
+
+msgctxt "0s"
+msgid "0秒"
+msgstr ""
+
+msgctxt "30s"
+msgid "30秒"
+msgstr ""
+
+msgctxt "45s"
+msgid "45秒"
+msgstr ""
+
+msgctxt "15s"
+msgid "15秒"
+msgstr ""
+
+msgctxt "60s"
+msgid "60秒"
+msgstr ""
+
+msgctxt "off"
+msgid "OFF"
+msgstr ""
+
+msgctxt "15m"
+msgid "15min/h Lock"
+msgstr ""
+
+msgctxt "30m"
+msgid "30min/h Lock"
+msgstr ""
+
+msgctxt "low"
+msgid "低"
+msgstr ""
+
+msgctxt "normal"
+msgid "一般"
+msgstr ""
+
+msgctxt "high"
+msgid "高"
+msgstr ""
+
+msgctxt "test"
+msgid "车道偏离系统"
+msgstr ""
+
+msgctxt "设置提示音大小"
+msgid "设置提示音大小"
+msgstr ""
+
+msgctxt "低"
+msgid "低"
+msgstr ""
+
+msgctxt "一般"
+msgid "一般"
+msgstr ""
+
+msgctxt "高"
+msgid "高"
+msgstr ""
+
+msgctxt "车内照明延迟关闭时间"
+msgid "车内照明延迟关闭时间"
+msgstr ""
+
+msgctxt "40km/h Lock"
+msgid "40km/h Lock"
+msgstr ""
+
+msgctxt "15km/h Lock"
+msgid "15km/h Lock"
+msgstr ""
+
+msgctxt "OFF"
+msgid "OFF"
+msgstr ""
+
+msgctxt "遥控自动降窗"
+msgid "遥控自动降窗"
+msgstr ""
+
+msgctxt "转向辅助灯"
+msgid "转向辅助灯"
+msgstr ""
+
+msgctxt "低_1"
+msgid "低"
+msgstr ""
+
+msgctxt "一般_1"
+msgid "一般"
+msgstr ""
+
+msgctxt "高_1"
+msgid "高"
+msgstr ""
+
+msgctxt "40km/h Lock_1"
+msgid "40km/h Lock"
+msgstr ""
+
+msgctxt "15km/h Lock_1"
+msgid "15km/h Lock"
+msgstr ""
+
+msgctxt "OFF_1"
+msgid "OFF"
+msgstr ""
+
+msgctxt "VIN 码"
+msgid "VIN 码"
+msgstr ""
+
+msgctxt "3652 7344 5678 0001 0527 1948"
+msgid "3652 7344 5678 0001 0527 1948"
+msgstr ""
+
+msgctxt "数据信息获取中请稍后......"
+msgid "数据信息获取中请稍后......"
+msgstr ""
+
+msgctxt "胎压监测系统故障，请到店内检查维修！"
+msgid "胎压监测系统故障，请到店内检查维修！"
+msgstr ""
+
+msgctxt "胎压监测系统正在进行学习模式！"
+msgid "胎压监测系统正在进行学习模式！"
+msgstr ""
+
+msgctxt "胎压监测系统学习失败，请重新学习匹配！"
+msgid "胎压监测系统学习失败，请重新学习匹配！"
+msgstr ""
+
+msgctxt "—°C"
+msgid "—°C"
+msgstr ""
+
+msgctxt "—.—bar"
+msgid "—.—bar"
+msgstr ""
+
+msgctxt "_1"
+msgid ""
+msgstr ""
+
+msgctxt "提示"
+msgid "提示"
+msgstr ""
+
+msgctxt "我知道了"
+msgid "我知道了"
+msgstr ""
+
+msgctxt "CN"
+msgid ""
+msgstr ""
+

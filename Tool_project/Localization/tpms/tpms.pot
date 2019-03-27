@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kanzi Studio\n"
+"POT-Creation-Date: 02/27/2017 16:30:49\n"
+"POT-Revision-Date: 02/27/2017 16:30:49\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Kanzi Studio\n"
+"X-Poedit-Basepath: ."
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: \n"
+
+msgctxt "0"
+msgid "胎压监测系统帮助"
+msgstr ""
+
+msgctxt "1"
+msgid "01、请将车辆气压保持在标准气压值（在驾驶员门槛标签上有注明）±Kpa;"
+msgstr ""
+
+msgctxt "2"
+msgid "02、此界面为胎压监测显示界面，实时显示轮胎气压值，温度值信息;"
+msgstr ""
+
+msgctxt "3"
+msgid "03、车辆需要以大于30km/h的速度行驶10min以上，此界面才会完全显示气压值及温度值信息:"
+msgstr ""
+
+msgctxt "4"
+msgid "04、当车辆轮胎出现故障时，请点击相应轮胎查看胎压故障及处理方法:"
+msgstr ""
+
+msgctxt "5"
+msgid "05、未接收到传感器信息时，气压值及温度值显示缺省时态—.—;"
+msgstr ""
+
+msgctxt "6"
+msgid "06、当车辆轮胎气压偏高时，请及时将轮胎气压放气至标准气压值；当气压偏低时，请及时将轮胎气压充气至标准气压值;"
+msgstr ""
+
+msgctxt "7"
+msgid "07、当车辆轮胎快速漏气时，请及时到维修店修补轮胎;"
+msgstr ""
+
+msgctxt "8"
+msgid "08、当车辆轮胎温度过高时，请及时停车待温度恢复正常后再行驶车辆;"
+msgstr ""
+
+msgctxt "9"
+msgid "09、更换轮胎后，TPMS灯会常亮报警提示，请及时到维修点维修处理:"
+msgstr ""
+
+msgctxt "10"
+msgid "10、轮胎调换后，轮胎位置信息和MP5显示信息会不匹配，需到维护店重新学习匹配；"
+msgstr ""
+
+msgctxt "11"
+msgid "11、当修补轮胎，扒轮胎过程中，请注意门芯处胎压传感器的位置，以免损坏胎压监测传感器;"
+msgstr ""
+
+msgctxt "12"
+msgid "12、胎压监测系统只是对您的车辆轮胎压力及温度异常的辅助提醒，具体的维护和保养，请参考用户手册。"
+msgstr ""
+
+msgctxt "ph"
+msgid "轮胎气压稍微偏高，请将对应轮胎放气至标准气压值！"
+msgstr ""
+
+msgctxt "selferr"
+msgid "控制器未连接或者控制器损坏！请检查维修!"
+msgstr ""
+
+msgctxt "pl"
+msgid "轮胎气压稍微偏低，请将对应轮胎充气至标准气压值！"
+msgstr ""
+
+msgctxt "al"
+msgid "轮胎快速漏气，请停车检查车辆轮胎并及时修补轮胎！"
+msgstr ""
+
+msgctxt "ns"
+msgid "轮胎传感器丢失，请注意检查维修！"
+msgstr ""
+
+msgctxt "pth"
+msgid "轮胎气压过高，请将对应轮胎放气至标准气压值！"
+msgstr ""
+
+msgctxt "ptl"
+msgid "轮胎气压过低，请将对应轮胎气压充气至标准气压值！"
+msgstr ""
+
+msgctxt "sf"
+msgid "轮胎内的传感器损坏，请到维修店更换新的传感器！"
+msgstr ""
+
+msgctxt "sysf"
+msgid "胎压监测系统故障，请到店内检查维修！"
+msgstr ""
+
+msgctxt "tth"
+msgid "轮温度过高，请停车待温度正常后再行驶车辆！"
+msgstr ""
+
+msgctxt "tips"
+msgid "提示"
+msgstr ""
+
+msgctxt "sl"
+msgid "传感器电池量过低"
+msgstr ""
+
+msgctxt "sl2"
+msgid "请到维修店更换新的传感器"
+msgstr ""
+
+msgctxt "know"
+msgid "知道了"
+msgstr ""
+
+msgctxt "getting"
+msgid "数据信息获取中，请稍后......"
+msgstr ""
+
+msgctxt "getting2"
+msgid "（车速大于30km/h，轮胎信息逐步显示！）"
+msgstr ""
+
+msgctxt "false"
+msgid "控制器未连接或者控制器损坏！"
+msgstr ""
+
+msgctxt "studying"
+msgid "胎压监测系统正在进行学习模式！"
+msgstr ""
+
+msgctxt "studyfalse"
+msgid "胎压监测系统学习失败，请重新学习匹配！"
+msgstr ""
+
+msgctxt "powerless"
+msgid "传感器电池电量过低，请到维修店更换新的电池！"
+msgstr ""
+
+msgctxt "pe"
+msgid "轮胎气压偏高或微低，请将对应轮胎调整至标准气压值！"
+msgstr ""
+
+msgctxt "CN_1"
+msgid ""
+msgstr ""
+

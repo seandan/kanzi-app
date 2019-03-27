@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2013_Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2010_Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2013_Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2010_Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_Release|Win32'">
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2013_Release|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2010_Release|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_Release|Win32'">
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2013_Release|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2010_Release|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2010_Debug_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2010_Release_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2013_Debug_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ES2_IMG_vs2013_Release_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2010_Debug_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2010_Release_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2013_Debug_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GL_vs2013_Release_DLL|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=$(ProjectDir)$(KanziEnginePath)$(KanziDllPath)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,15 @@
+import os 
+
+try:
+    kanzi_home = os.environ['KANZI_HOME']
+    engine_root = os.path.join(kanzi_home, "Engine")
+    print("Found KANZI_HOME: " + kanzi_home)
+except:
+    print("KANZI_HOME environment variable not found.")
+
+default_gl_profile = "ES2" 
+supported_gl_profiles = ["ES2"] 
+
+engine_root = "C:\\KanziWorkspace_3_2_3_414_89232\\Engine"
+
+execfile(os.path.join("..", "common", "start_build.py"))

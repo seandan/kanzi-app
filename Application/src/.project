@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Car</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.qnx.tools.ide.systembuilder.core.nature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>EXTRA_CONTROLLER</name>
+			<type>2</type>
+			<location>F:/controller</location>
+		</link>
+		<link>
+			<name>EXTRA_INCVPATH_headers</name>
+			<type>2</type>
+			<location>C:/KanziWorkspace_3_2_4_474_92176/Engine/headers</location>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>EXTRA_INCLUDE</name>
+			<value>file:/C:/KanziWorkspace_3_2_4_474_92176/Engine/headers</value>
+		</variable>
+	</variableList>
+</projectDescription>

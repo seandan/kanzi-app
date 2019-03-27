@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kanzi Studio\n"
+"POT-Creation-Date: 02/27/2017 16:30:49\n"
+"POT-Revision-Date: 02/27/2017 16:30:49\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Kanzi Studio\n"
+"X-Poedit-Basepath: ."
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: \n"
+
+msgctxt "cd"
+msgid "车道偏离系统"
+msgstr ""
+
+msgctxt "md"
+msgid "盲点监测系统"
+msgstr ""
+
+msgctxt "qp"
+msgid "前碰撞预警系统"
+msgstr ""
+
+msgctxt "hp"
+msgid "后碰撞预警系统"
+msgstr ""
+
+msgctxt "xr"
+msgid "行人识别系统"
+msgstr ""
+
+msgctxt "bs"
+msgid "标识牌识别系统"
+msgstr ""
+
+msgctxt "zdsc"
+msgid "自动紧急刹车系统"
+msgstr ""
+
+msgctxt "gb"
+msgid "关闭自动紧急刹车系统"
+msgstr ""
+
+msgctxt "gbtips"
+msgid "你正在关闭自动紧急刹车系统"
+msgstr ""
+

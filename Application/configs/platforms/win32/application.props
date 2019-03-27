@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets">
+    <Import Project="..\..\..\..\..\..\Engine\configs\platforms\win32\application.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros">
+    <KanziEnginePath>..\..\..\..\..\..\Engine</KanziEnginePath>
+    <ProjectRootPath>..\..\..</ProjectRootPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir>$(ProjectRootPath)\output\$(PlatformName)\$(Configuration)\</OutDir>
+    <IntDir>$(ProjectRootPath)\output\$(PlatformName)\$(Configuration)\intermediate\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>..\..\..\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <BuildMacro Include="KanziEnginePath">
+      <Value>$(KanziEnginePath)</Value>
+    </BuildMacro>
+    <BuildMacro Include="ProjectRootPath">
+      <Value>$(ProjectRootPath)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>
